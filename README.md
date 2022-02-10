@@ -41,3 +41,5 @@
 ▶ 다이어리 안의 글을 적은것이 앱이 꺼졌을때 사라지지 않는 작업을 함
 
 ## 완성.
+
+![image](https://user-images.githubusercontent.com/72656002/153360070-578e1799-2a6e-4e94-ad14-9b83294966cc.png)
